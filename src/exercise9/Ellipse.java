@@ -43,7 +43,7 @@ public class Ellipse {
     }
     public String getType(){
         if(semiAxisA == semiAxisB){
-            return "Circle";
+            return "Cycle";
         }else{
             return  "Ellipse";
         }
